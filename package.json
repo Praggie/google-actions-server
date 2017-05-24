@@ -16,7 +16,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:manekinekko/google-actions-server.git"
+    "url": "git@github.com:praggie/google-actions-server.git"
   },
   "scripts": {
     "start": "nodemon lib/index.js --exec babel-node",
